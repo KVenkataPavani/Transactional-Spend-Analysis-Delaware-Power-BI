@@ -1,4 +1,5 @@
 # Transactional-Spend-Analysis-Delaware
+![Dashboard](Delaware_Dashboard)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
